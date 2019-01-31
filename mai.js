@@ -1,0 +1,11 @@
+document.getElementById("1").addActionListener.("click")function()ud;
+document.getElementById("2").addActionListener.("click")function()ud;
+document.getElementById("3").addActionListener.("click")function()ud;
+document.getElementById("4").addActionListener.("click")function()ud;
+document.getElementById("5").addActionListener.("click")function()ud;
+document.getElementById("6").addActionListener.("click")function()ud;
+document.getElementById("7").addActionListener.("click")function()ud;
+document.getElementById("8").addActionListener.("click")function()ud;
+document.getElementById("9").addActionListener.("click")function()ud;
+document.getElementById("0").addActionListener.("click")function()ud;
+document.getElementById("+").addActionListener.("click")function()ud;
